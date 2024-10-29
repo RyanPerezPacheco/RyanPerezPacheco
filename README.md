@@ -19,3 +19,5 @@
 Sou estudante de Engenharia de Software apaixonado
 por tecnologia, atualmente no terceiro semestre,
 buscando meu primeiro estágio na área.
+Embora eu ainda não tenha experiência profissional, 
+tenho trabalhado em vários projetos pessoais que me permitiram adquirir habilidades práticas em diversas tecnologias.
